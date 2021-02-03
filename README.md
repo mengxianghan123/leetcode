@@ -16,4 +16,5 @@
 [No.452_Minimum_Number_of_Arrows_to_burst_balloons (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.452_Minimum_Number_of_Arrows_to_burst_balloons)  
 [No.763_Partition_Labels (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.763_Partition_Labels)  
 [No.122_Best_Time_to_Buy_and_Sell_Stock2 (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.122_Best_Time_to_Buy_and_Sell_Stock2)  
-[No.406_Queue_Reconstruction_by_Height (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.406_Queue_Reconstruction_by_Height)
+[No.406_Queue_Reconstruction_by_Height (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.406_Queue_Reconstruction_by_Height)  
+[No.665_None-decreasing_Array (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.665_None-decreasing_Array)  
