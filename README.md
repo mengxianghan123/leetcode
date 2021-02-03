@@ -18,3 +18,6 @@
 [No.122_Best_Time_to_Buy_and_Sell_Stock2 (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.122_Best_Time_to_Buy_and_Sell_Stock2)  
 [No.406_Queue_Reconstruction_by_Height (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.406_Queue_Reconstruction_by_Height)  
 [No.665_None-decreasing_Array (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Greedy%20Algorithm/No.665_None-decreasing_Array)  
+
+### [2.双指针：](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer)  
+[No.167_Two_Sum2-Input_array_is_sorted (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.167_Two_Sum2-Input_array_is_sorted)
