@@ -23,3 +23,5 @@
 [No.167_Two_Sum2-Input_array_is_sorted (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.167_Two_Sum2-Input_array_is_sorted)  
 [No.88_Merge_Sorted_Array (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.88_Merge_Sorted_Array)  
 [No.142_Linked_List_Cycle2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.88_Merge_Sorted_Array/No.142_Linked_List_Cycle2)  
+[No.76_Minimun_Window_Substring (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.76_Minimun_Window_Substring)  
+[No.633_Sum_of_Square_Numbers (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.633_Sum_of_Square_Numbers)
