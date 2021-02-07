@@ -24,4 +24,5 @@
 [No.88_Merge_Sorted_Array (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.88_Merge_Sorted_Array)  
 [No.142_Linked_List_Cycle2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.88_Merge_Sorted_Array/No.142_Linked_List_Cycle2)  
 [No.76_Minimun_Window_Substring (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.76_Minimun_Window_Substring)  
-[No.633_Sum_of_Square_Numbers (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.633_Sum_of_Square_Numbers)
+[No.633_Sum_of_Square_Numbers (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.633_Sum_of_Square_Numbers)  
+[No.680_Valid_Palindrome2 (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.680_Valid_Palindrome2)  
