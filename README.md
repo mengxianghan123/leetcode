@@ -26,3 +26,5 @@
 [No.76_Minimun_Window_Substring (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.76_Minimun_Window_Substring)  
 [No.633_Sum_of_Square_Numbers (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.633_Sum_of_Square_Numbers)  
 [No.680_Valid_Palindrome2 (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.680_Valid_Palindrome2)  
+[No.524_Longest_Word_in_Dictionary_through_Deleting (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.524_Longest_Word_in_Dictionary_through_Deleting)  
+[No.340_Longest_Substring_with_At_Most_K_Distinct_Characters (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Double%20Pointer/No.340_Longest_Substring_with_At_Most_K_Distinct_Characters)
