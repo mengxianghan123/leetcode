@@ -43,3 +43,7 @@
 [No.347_Top_K_Frequent_Elements (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Sort/No.347_Top_K_Frequent_Elements)  
 [No.451_Sort_Characters_By_Frequency (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Sort/No.451_Sort_Characters_By_Frequency)  
 [No.75_Sort_Colors (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Sort/No.75_Sort_Colors)  
+
+### [5.搜索：](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm)  
+[No.695_Max_Area_of_Island (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.695_Max_Area_of_Island)  
+[No.547_Number_of_Provinces (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.547_Number_of_Provinces)
