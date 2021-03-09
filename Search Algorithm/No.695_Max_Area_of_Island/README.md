@@ -37,7 +37,10 @@
 对于堆栈的解法：  
 核心思路是，当一个1出栈，就将其相邻的1入栈，循环直到空栈。思路不难，但是有个地方值得注意，究竟在什么时候把一个1改为0？出栈还是入栈有影响吗？我起初是在每个1出栈时将其置零，但是后面发现，这样会造成1的重复入栈（这里值得好好想想）。所以只能在1入栈后就马上将其置零。  
 
+对于广度优先搜索算法，只需要将栈的数据结构换成队列，其余内容原理上都相似。
+
 ---
 
 ## 3.其它
-[C++中stack的使用方法](https://blog.csdn.net/phdongou/article/details/114248412)
+[C++中stack的使用方法](https://blog.csdn.net/phdongou/article/details/114248412)  
+[c++queue容器介绍](https://blog.csdn.net/chao_xun/article/details/8037438)
