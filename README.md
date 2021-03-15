@@ -46,4 +46,6 @@
 
 ### [5.搜索：](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm)  
 [No.695_Max_Area_of_Island (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.695_Max_Area_of_Island)  
-[No.547_Number_of_Provinces (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.547_Number_of_Provinces)
+[No.547_Number_of_Provinces (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.547_Number_of_Provinces)  
+[No.417_Pacific_Atlantic_Water_Flow (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.417_Pacific_Atlantic_Water_Flow)  
+[No.46_Permutations (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.46_Permutations)  
