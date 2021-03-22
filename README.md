@@ -49,3 +49,5 @@
 [No.547_Number_of_Provinces (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.547_Number_of_Provinces)  
 [No.417_Pacific_Atlantic_Water_Flow (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.417_Pacific_Atlantic_Water_Flow)  
 [No.46_Permutations (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.46_Permutations)  
+[No.77_Combinations (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.77_Combinations)  
+[No.79_Word_Search (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.79_Word_Search)  
