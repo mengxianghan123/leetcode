@@ -51,3 +51,5 @@
 [No.46_Permutations (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.46_Permutations)  
 [No.77_Combinations (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.77_Combinations)  
 [No.79_Word_Search (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.79_Word_Search)  
+[No.51_N-Qweens (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.51_N-Qweens)  
+[No.934_Shortest_Bridge (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.934_Shortest_Bridge)  
