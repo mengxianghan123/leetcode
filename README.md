@@ -54,3 +54,5 @@
 [No.51_N-Qweens (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.51_N-Qweens)  
 [No.934_Shortest_Bridge (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.934_Shortest_Bridge)  
 [No.126_Word_Ladder2 (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.126_Word_Ladder2)  
+[No.130_Surrounded_Regions (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.130_Surrounded_Regions)  
+[No.257_Binary_Tree_Paths (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.257_Binary_Tree_Paths)
