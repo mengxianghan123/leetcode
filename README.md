@@ -57,4 +57,5 @@
 [No.130_Surrounded_Regions (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.130_Surrounded_Regions)  
 [No.257_Binary_Tree_Paths (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.257_Binary_Tree_Paths)  
 [No.47_Permutations2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.47_Permutations2)  
-[No.40_Combination_Sum2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.40_Combination_Sum2)
+[No.40_Combination_Sum2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.40_Combination_Sum2)  
+[No.37_Sudoku_Solver (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.37_Sudoku_Solver)  
