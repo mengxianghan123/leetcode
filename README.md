@@ -59,3 +59,8 @@
 [No.47_Permutations2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.47_Permutations2)  
 [No.40_Combination_Sum2 (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.40_Combination_Sum2)  
 [No.37_Sudoku_Solver (Hard)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.37_Sudoku_Solver)  
+[No.310_Minimum_Height_Trees (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Search%20Algorithm/No.310_Minimum_Height_Trees)  
+
+### [6.动态规划：](https://github.com/mengxianghan123/leetcode/tree/master/Dynamic%20Programming)  
+[No.70_Climbing_Stairs (Easy)](https://github.com/mengxianghan123/leetcode/tree/master/Dynamic%20Programming/No.70_Climbing_Stairs)  
+[No.198_House_Robber (Medium)](https://github.com/mengxianghan123/leetcode/tree/master/Dynamic%20Programming/No.198_House_Robber)  
